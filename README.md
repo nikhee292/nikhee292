@@ -1,4 +1,4 @@
-# Hi, I'm Nikhee 👋
+# Hi, I'm Nikhee Sundarrajan 👋
 
 I'm a **Junior Software Engineer** with 2+ years of industry experience at Accenture and a Master’s student in Computer Science in the U.S.
 
